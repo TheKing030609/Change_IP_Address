@@ -1,5 +1,11 @@
 # It is a Python Program to change a IP Address on Linux based system Like :- Kali, Parrot ...
 
-To use this program :
-  1st install macchanger
-  2nd install python3 
+# It will change ethernat network mac address change
+# Requirement :- 
+#          1. macchanger
+#          2. python3
+# How to use 
+#              Install 
+        sudo apt install macchanger
+#
+        sudo python3 new_mac_add.py
